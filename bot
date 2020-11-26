@@ -1,0 +1,28 @@
+helokod=open("c:/binyamin/ss.txt")
+print(helokod.read())
+helokod.close()
+imgoingtorun=ponk005="its good come on"
+imgoingtosleep=ponk055="good night"
+imgoingtoschool=ponk009="good luck turning me off"
+Whatsyourname=ponk039="my neam is Noya Whats your name?"
+yourname=ponk094="my name is Noya"
+Whoisyourkey=ponk1000="my key is binyamni hlavi is god man"
+helpm=open("c:/binyamin/helpme.txt")
+opengame=open("c:/cvc/joyn.txt")
+opengame=(opengame.read())
+ope=open("c:/binyamin/bim.txt")
+ope=print(ope.read())
+ope.close()
+#stanaropenword=ponk8828=open("C:/binyamin/fe.py")
+#print(ponk8828.read())
+#ponk8828.close()
+#x=0
+#while(x<11):
+    #print("closs",x)
+    #x+=1
+#print("bay")
+#import matplotlib.pyplot as plt
+#plt.plot([1,2,3,4,5,6,7,8,9,10,11,12,13,14,15])
+#plt.ylabel('wow')
+#plt.xlabel('cool')
+#plt.show()
